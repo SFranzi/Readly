@@ -15,13 +15,13 @@ Clone this repository, change directories and use npm to install all necessary d
 
 ```
 $ git clone https://github.com/SFranzi/Readly.git
-$ cd readly
+$ cd Readly
 $ npm install
 ```
 
 ## Usage
 
-Run the app
+Run the app and go to http://localhost:3000/
 
 ```
 $ npm start
